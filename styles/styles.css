@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+html {
+    font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  }
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    margin: 0;
+  }
+h1,h2 {
+    font-size: 40px;
+    font-family: 'League Gothic', sans-serif !important;
+    color: rgb(0, 195, 255);
+
+}
+p,li {
+    line-height: 2;
+    letter-spacing: 1 px;
+
+}
+img {
+    width: 100%;
+    display: block;
+}
